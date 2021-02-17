@@ -32,3 +32,6 @@ for friends
 
 # A bot for getting tickets to broadway shows 
 This will allow people who are attempting to see broadway shows have an easier time getting their tickets as they are very saught after
+
+# A truly good readMe builder and visualizer tool. These things are so annoying to make, and there needs to be a site with some good templates and that visually shows the developer whats happening in their markdown language 
+pretty self explanatory
