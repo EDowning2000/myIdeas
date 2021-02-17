@@ -29,6 +29,7 @@ This app will allow golfers to connect and eventually meet eachother on the cour
 for friends 
 
 # build my own crypto 
+another pretty self explanatory one 
 
 # A bot for getting tickets to broadway shows 
 This will allow people who are attempting to see broadway shows have an easier time getting their tickets as they are very saught after
